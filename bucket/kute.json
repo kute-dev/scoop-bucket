@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0-alpha.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kute-dev/kute/releases/download/v0.3.0-alpha.8/kute_0.3.0-alpha.8_windows_amd64.zip",
+            "bin": [
+                "kute.exe"
+            ],
+            "hash": "0e2b1d6440a35a7a0aff28590f8029136eafa1e6101acb4727f18870d3e55b73"
+        },
+        "arm64": {
+            "url": "https://github.com/kute-dev/kute/releases/download/v0.3.0-alpha.8/kute_0.3.0-alpha.8_windows_arm64.zip",
+            "bin": [
+                "kute.exe"
+            ],
+            "hash": "1fdff82db627fdece95c75624ed61ca99b7477c927901d964d0afc8af6970588"
+        }
+    },
+    "homepage": "https://github.com/kute-dev/kute",
+    "license": "Apache-2.0",
+    "description": "A TUI Kubernetes console, built with Bubble Tea and Lip Gloss."
+}
