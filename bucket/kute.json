@@ -1,19 +1,19 @@
 {
-    "version": "0.11.1",
+    "version": "0.11.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kute-dev/kute/releases/download/v0.11.1/kute_0.11.1_windows_amd64.zip",
+            "url": "https://github.com/kute-dev/kute/releases/download/v0.11.2/kute_0.11.2_windows_amd64.zip",
             "bin": [
                 "kute.exe"
             ],
-            "hash": "e738f4c4d1cf317780eb3f71b7ab7a0afacd288f090a94518fabbaa063982098"
+            "hash": "297f85d66d5c318423515cf22f29f59354bb011a1c460bcf669e289020d0eac4"
         },
         "arm64": {
-            "url": "https://github.com/kute-dev/kute/releases/download/v0.11.1/kute_0.11.1_windows_arm64.zip",
+            "url": "https://github.com/kute-dev/kute/releases/download/v0.11.2/kute_0.11.2_windows_arm64.zip",
             "bin": [
                 "kute.exe"
             ],
-            "hash": "9824d62e16d9a1defe53d1f2c6a3d72e931469006748aca7f26eae8cbac59d20"
+            "hash": "cfc04ecaaa29ff6703839bf3e05c1dc381384abe7ce6859a673f12b50cbfdea1"
         }
     },
     "homepage": "https://github.com/kute-dev/kute",
